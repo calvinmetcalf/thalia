@@ -1,0 +1,22 @@
+{
+  "name": "thalia",
+  "version": "1.0.0",
+  "description": "thalia ====",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calvinmetcalf/thalia.git"
+  },
+  "author": "Calvin W. Metcalf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calvinmetcalf/thalia/issues"
+  },
+  "homepage": "https://github.com/calvinmetcalf/thalia",
+  "dependencies": {
+    "mkdirp": "^0.5.0"
+  }
+}
